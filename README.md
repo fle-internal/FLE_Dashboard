@@ -8,6 +8,10 @@ We should aim to make this extensible later on. We should try and compartmentali
 Contribute
 ----------
 
-To work on this project, clone this repo into any folder and run `npm install` to set everything up. `dashboard.js` should run the blessed-contrib powered dashboard in your command line. Make sure you have Node.js installed.
+To work on this project,
+
+1. Make sure you have Node.js installed.
+2. Clone this repo into any folder and run `npm install` to set everything up.
+3. `node dashboard.js` should run the blessed-contrib powered dashboard in your command line. 
 
 To understand how the various widgets work, check out the documentation for [blessed](https://github.com/chjj/blessed/blob/master/README.md) and [blessed-contrib](https://github.com/yaronn/blessed-contrib/blob/master/README.md).
