@@ -2,7 +2,7 @@
   "name": "FLE_Dashboard",
   "version": "1.0.0",
   "description": "Node.js project to visualize cool data from various sources for the FLE office",
-  "main": "index.js",
+  "main": "dashboard.js",
   "dependencies": {
     "blessed": "^0.0.38",
     "blessed-contrib": "^0.0.4"
