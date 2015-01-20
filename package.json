@@ -1,0 +1,16 @@
+{
+  "name": "FLE_Dashboard",
+  "version": "1.0.0",
+  "description": "Node.js project to visualize cool data from various sources for the FLE office",
+  "main": "index.js",
+  "dependencies": {
+    "blessed": "^0.0.38",
+    "blessed-contrib": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antriksh Yadav <antrikshy@gmail.com> (http://antrikshy.com/)",
+  "license": "MIT"
+}
